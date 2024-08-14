@@ -1,0 +1,5 @@
+tqdm
+nbformat
+nbconvert
+pandas
+numpy

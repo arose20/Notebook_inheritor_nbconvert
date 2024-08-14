@@ -1,0 +1,7 @@
+README.md
+setup.py
+Notebook_inheritor.egg-info/PKG-INFO
+Notebook_inheritor.egg-info/SOURCES.txt
+Notebook_inheritor.egg-info/dependency_links.txt
+Notebook_inheritor.egg-info/requires.txt
+Notebook_inheritor.egg-info/top_level.txt
