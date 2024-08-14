@@ -1,4 +1,0 @@
-Reading in template notebook 📓
-Extracting code blocks from notebook 📝
-Executing code blocks 🔨
-Executing code blocks complete ╰(▔∀▔)╯
