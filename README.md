@@ -1,6 +1,6 @@
 # Automate Jupyter Notebook execution and capture outputs with nbconvert
 
-Notebook_inheritor_nbconvert is designed to help streamline the automation of Jupyter notebooks. 
+Notebook_inheritor_nbconvert is designed to help streamline the automation of Jupyter notebooks.
 
 It leverages nbconvert to execute all cells within a template jupyter notebook, capture the outputs, and save them into an output notebook. This makes it look like you ran the notebook interactively having outputs of each cell block underneath the associated code block.
 
